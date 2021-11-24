@@ -1,4 +1,4 @@
-# Predicting-Survival-Rate-HeartFailure-Patients
+# Predicting Survival Rate of Patients in Heart Failure Data¶
 
 
 ## Introduction
